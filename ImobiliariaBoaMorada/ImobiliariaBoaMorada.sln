@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImobiliariaBoaMorada.Web.UI", "ImobiliariaBoaMorada.Web.UI\ImobiliariaBoaMorada.Web.UI.csproj", "{DA007160-D75E-4F2C-BC65-D58CF790B06C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImobiliariaBoaMorada.Domain", "ImobiliariaBoaMorada.Domain\ImobiliariaBoaMorada.Domain.csproj", "{A6D87DF7-DF1E-4D07-A562-816389DB575D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImobiliariaBoaMorada.Intraestrutura", "ImobiliariaBoaMorada.Intraestrutura\ImobiliariaBoaMorada.Intraestrutura.csproj", "{5A16E9CB-7495-47FD-9E62-87B283F2F9E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DA007160-D75E-4F2C-BC65-D58CF790B06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA007160-D75E-4F2C-BC65-D58CF790B06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA007160-D75E-4F2C-BC65-D58CF790B06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D87DF7-DF1E-4D07-A562-816389DB575D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D87DF7-DF1E-4D07-A562-816389DB575D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D87DF7-DF1E-4D07-A562-816389DB575D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D87DF7-DF1E-4D07-A562-816389DB575D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A16E9CB-7495-47FD-9E62-87B283F2F9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A16E9CB-7495-47FD-9E62-87B283F2F9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A16E9CB-7495-47FD-9E62-87B283F2F9E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A16E9CB-7495-47FD-9E62-87B283F2F9E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
